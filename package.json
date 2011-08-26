@@ -1,0 +1,12 @@
+{
+    "name" : "nx-daemon",
+    "description" : "node process daemon tools for Next JS.",
+    "keywords": ["framework", "web", "Web Server", "Application Server", "NextJS", "Ext JS"],
+    "version" : "0.1.0",
+    "author" : "Kazuhiro Kotsutsumi <kotsutsumi@xenophy.com>",
+    "repository" : "git://github.com/xenophy/NextDaemon.git",
+    "main" : "./build/default/nxd",
+    "engines": {
+        "node": ">= 0.5.4"
+    }
+}
